@@ -1,5 +1,4 @@
-**day1**
-SQL Practice – Week 1 Day 1
+**SQL Practice – Week 1 Day 1**
 
 **Files**
 - "data_creation.sql" → Creates tables and inserts data
